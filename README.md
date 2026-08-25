@@ -3,8 +3,8 @@
 Proyecto individual correspondiente a la **Práctica Formativa Obligatoria 1 (PFO1)** de Desarrollo Web Front-End. Se trata de una página de aterrizaje (landing page) que presenta mi perfil profesional, áreas de especialización, habilidades técnicas, secciones personales y un canal directo de contacto.
 
 ## 🚀 Despliegue (Demo en vivo)
-- **URL de producción (Vercel):** [https://tu-proyecto.vercel.app](https://tu-proyecto.vercel.app) *(reemplazar por el link generado en Vercel)*
-- **Repositorio de GitHub:** [https://github.com/peterbusta/nombre-del-repo](https://github.com/peterbusta/landing_portfolio) *(reemplazar con el nombre exacto)*
+- **URL de producción (Vercel):** [https://pmb-portfolio-one.vercel.app/](https://pmb-portfolio-one.vercel.app/)
+- **Repositorio de GitHub:** [https://github.com/peterbusta/landing_portfolio](https://github.com/peterbusta/landing_portfolio)
 
 ---
 
